@@ -1,3 +1,3 @@
 dist: bionic
 language: java
-script: ant build
+before install cd weka
